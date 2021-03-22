@@ -1,5 +1,5 @@
 s3_conf:
-  s3_bucket: fest
+  s3_bucket: rakesh-test
 
 sftp_conf:
     filetype: csv
